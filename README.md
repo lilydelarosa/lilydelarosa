@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 I'm Lily
 
-<!--
-**lilydelarosa/lilydelarosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Full Stack Developer in training with a strong interest in Front-End, UI, and building clean user experiences. Currently leveling up my JavaScript, React, and backend fundamentals while working toward applying for software roles.
 
-Here are some ideas to get you started:
+**“Build. Break. Learn. Repeat.”**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm currently working on:
+- Personal projects to strengthen my front-end + full stack skills  
+- Practicing version control workflow and Git/GitHub collaboration
+
+### What I'm currently learning:
+- Advanced JS concepts  
+- React ecosystem  
+- API integration & best practices  
+
+### What I want to collaborate on:
+- Front-end UI builds, open-source beginner friendly projects, and real world mini apps
+
+### Fun fact:
+- I originally started in UX/UI design which led me deeper into coding — now I’m all in.
+
