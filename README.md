@@ -14,9 +14,17 @@ I originally began my journey during the pandemic by self-teaching UX/UI design,
 - Front-end UI builds, open-source beginner-friendly projects, and real-world mini apps, but I’m open to collaborating on anything that allows mutual learning and growth. I love expanding my knowledge and exploring new areas in tech.
 
 ### Certifications:
-- Full-Stack Development @ LACC
-- UX/UI Certification @ Codecademy
-- HTML & CSS @ FreeCodeCamp & CodeCademy
+- Full-Stack Development @ LACC ### Languages & Tools
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="15" height="15"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
+
+- UX/UI Certification @ Codecademy <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="20" height="20"/>
+
+- HTML & CSS @ FreeCodeCamp & CodeCademy <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
+
+
 - JavaScript @ Codecademy
 - Front End Development @ Codecademy (Pending)
 
