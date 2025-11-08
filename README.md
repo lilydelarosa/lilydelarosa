@@ -1,21 +1,21 @@
 ## Hi there 👋 I'm Lily
 
-I’m a Full Stack Developer in training with a strong interest in Front-End, UI, and building clean user experiences. Currently leveling up my JavaScript, React, and backend fundamentals while working toward applying for software roles.
+I’m a Full Stack Developer in training with a strong interest in Front-End development, UI solutions, and creating smooth, intuitive user experiences. 
+I originally began my journey during the pandemic by self-teaching UX/UI design, which opened the door to the larger tech world. After earning my UX/UI certification, I discovered my passion for coding and continued learning consistently in my free time until I was able to formally enroll in college without disrupting my daily responsibilities. Now I’m focused on sharpening my front-end fundamentals and building real-world projects to grow into a Software Engineer role.
 
 **“Build. Break. Learn. Repeat.”**
 
 ### What I'm currently working on:
-- Personal projects to strengthen my front-end + full stack skills  
-- Practicing version control workflow and Git/GitHub collaboration
-
-### What I'm currently learning:
-- Advanced JS concepts  
-- React ecosystem  
-- API integration & best practices  
+- Personal projects to strengthen my front-end + full-stack skills.
+- Codecademy’s Front-End Development coursework to refresh and strengthen my fundamentals. 
+- API integration & best practices.
 
 ### What I want to collaborate on:
-- Front-end UI builds, open-source beginner friendly projects, and real world mini apps
+- Front-end UI builds, open-source beginner-friendly projects, and real-world mini apps, but I’m open to collaborating on anything that allows mutual learning and growth. I love expanding my knowledge and exploring new areas in tech.
 
-### Fun fact:
-- I originally started in UX/UI design which led me deeper into coding — now I’m all in.
-
+### Certifications:
+- Full-Stack Development @ LACC
+- UX/UI Certification @ Codecademy
+- HTML & CSS @ FreeCodeCamp & CodeCademy
+- JavaScript @ Codecademy
+- Front End Development @ Codecademy (Pending)
