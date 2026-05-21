@@ -1,7 +1,10 @@
 ## Hi!👋 I'm Lily
 
-I’m a Full Stack Developer in training with a strong interest in Front-End development, UI solutions, and creating smooth, intuitive user experiences. 
-I originally began my journey during the pandemic by self-teaching UX/UI design, which opened the door to the larger tech world. After earning my UX/UI certification, I discovered my passion for coding and continued learning consistently in my free time until I was able to formally enroll in college without disrupting my daily responsibilities. Now I’m focused on sharpening my front-end fundamentals and building real-world projects, growing into a Software Engineer role
+I’m a Full-Stack Developer in training with a strong interest in Front-End Development, UI systems, and creating smooth, intuitive user experiences.
+
+I began my journey during the pandemic by self-teaching UX/UI design, which eventually led me into software development. After earning my UX/UI certification, I continued building my coding skills independently before formally pursuing Computer Science while balancing daily responsibilities.
+
+I’m currently focused on strengthening my front-end fundamentals, building real-world projects, and growing into a Software Engineer role.
 
 **“Ew, a bug 🐛”**
 
