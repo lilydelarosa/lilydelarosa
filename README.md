@@ -48,8 +48,3 @@ I’m currently strengthening my back-end skills, learning software-testing prac
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="15" height="15"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="15" height="15"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="15" height="15"/>
-
-
-
-
-[![Lily's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilydelarosa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
