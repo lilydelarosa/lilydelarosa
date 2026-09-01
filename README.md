@@ -1,28 +1,28 @@
 ## Hi!👋 I'm Lily
 
-I’m a Full-Stack Developer in training with a strong interest in Front-End Development, UI systems, and creating smooth, intuitive user experiences.
+I’m a Computer Science student focused on front-end development and QA/software testing. I enjoy building clean, responsive websites, testing how applications work, and improving the overall user experience.
 
-I began my journey during the pandemic by self-teaching UX/UI design, which eventually led me into software development. After earning my UX/UI certification, I continued building my coding skills independently before formally pursuing Computer Science while balancing daily responsibilities.
+I’ve worked with HTML, CSS, JavaScript, Bootstrap, APIs, Git/GitHub, and browser developer tools through coursework and personal projects. I also have some coursework experience with AngularJS, Node.js, Express, and MongoDB.
 
-I’m currently focused on strengthening my front-end fundamentals, building real-world projects, and growing into a Software Engineer role.
+I’m currently strengthening my back-end skills, learning software-testing practices, and building projects that give me more hands-on experience.
 
 **“Ew, a bug 🐛”**
 
 ### What I'm currently working on:
-- Personal projects to strengthen my front-end + full-stack skills.
-- Codecademy’s Front-End Development coursework to refresh and strengthen my fundamentals. 
-- API integration & best practices.
+- Personal projects to strengthen my full-stack skills.
+- Learning QA and software testing fundamentals.
+- Practicing API integration and development best practices.
 
 ### What I want to collaborate on:
-- Front-end UI builds, open-source beginner-friendly projects, and real-world mini apps, but I’m open to collaborating on anything that allows mutual learning and growth. I love expanding my knowledge and exploring new areas in tech.
+- QA and software-testing projects where I can practice identifying bugs, testing features, and improving the user experience.
+- Front-end UI projects, beginner-friendly open-source contributions, and real-world mini applications.
+- Projects where I can contribute, learn from others, and continue expanding my technical skills.
 
 ### Certifications:
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![LACCD](https://img.shields.io/badge/LACCD-003DA5?style=for-the-badge&logoColor=white)
-
-
 
 
 - Full-Stack Development @ LACC
@@ -40,7 +40,7 @@ I’m currently focused on strengthening my front-end fundamentals, building rea
 
 
 - JavaScript @ Codecademy <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="15" height="15"/>
-- Front End Development @ Codecademy (Pending)
+- Front End Development @ Codecademy
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="15" height="15"/>
